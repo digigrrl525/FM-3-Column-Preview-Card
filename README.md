@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/html-css-flexbox-mobilefirst-workflow-Rknrc5C9D_](https://www.frontendmentor.io/solutions/html-css-flexbox-mobilefirst-workflow-Rknrc5C9D_)
 - Live Site URL: [https://digigrrl525.github.io/FM-3-Column-Preview-Card/](https://digigrrl525.github.io/FM-3-Column-Preview-Card/)
 
 ### Built with
